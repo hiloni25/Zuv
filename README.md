@@ -1,3 +1,3 @@
 # Zuv
 
-IOS Application that detects if the mobile is in motion or not.
+IOS Application that detects if the gadget in which this application is installed is in motion or not.
